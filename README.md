@@ -1,3 +1,5 @@
+![WanderlustHero](https://github.com/user-attachments/assets/70d82cb0-37a4-48fc-b763-29145ca026f6)
+
 # Wanderlust
 
 Transform your Classic WoW experience into a Survival Experience.
@@ -200,3 +202,4 @@ Show the intro stepper again (it appears at Level 6):
 ## Feedback & Support
 
 Found a bug? Have a suggestion? Missing a campfire location? Let me know!
+
