@@ -1,8 +1,6 @@
-![WanderlustHero](https://github.com/user-attachments/assets/aa43d54e-53ec-47be-ae63-e8478a14835c)
-
 # Wanderlust
 
-Transform your WoW experience into a Survival Experience.
+Transform your Classic WoW experience into a Survival Experience.
 
 Wanderlust adds immersive survival mechanics that make campfires, inns, and the wilderness feel meaningful again. Rest by the fire to recover, manage your hunger and thirst in the wilds, brave harsh temperatures, and feel the weight of your journey through exhaustion and anguish.
 
